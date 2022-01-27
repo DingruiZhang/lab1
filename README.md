@@ -1,2 +1,2 @@
-# lab1
-lab1
+# Labs
+Lab notebooks
